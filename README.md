@@ -1,4 +1,4 @@
-Messing around with Scapy. This program discovers devices in your subnet by sending out a broadcast ARP.
+Playing around with Scapy. This program discovers devices in your subnet by sending out a broadcast ARP.
 
 Example usage: `sudo python3.6 ./discover.py 192.168.1.1/24`
 
