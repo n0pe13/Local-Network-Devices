@@ -9,5 +9,5 @@ Example output:
 192.168.1.43        20:68:b1:80:cc:90       Bobs iPhone
 192.168.1.187       2e:2c:52:0d:32:dd       Alices Desktop
 ```
-**TODO**
+**TO DO:**
 - Group similar appliances together so all desktops are displayed towards the top, then phones, etc.
