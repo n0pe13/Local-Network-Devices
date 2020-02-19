@@ -10,4 +10,4 @@ Example output:
 192.168.1.187       2e:2c:52:0d:32:dd       Alices Desktop
 ```
 **TODO**
-- Group alike appliances together
+- Group similar appliances together so all desktops are displayed towards the top, then phones, etc.
