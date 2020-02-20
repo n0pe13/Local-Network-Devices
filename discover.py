@@ -2,7 +2,14 @@ import sys
 import socket
 from scapy.all import *
 
-
+'''
+sr               : Send and receive packets at layer 3
+sr1              : Send packets at layer 3 and return only the first answer
+srp              : Send and receive packets at layer 2
+srp1             : Send and receive packets at layer 2 and return only the first answer
+send             : Send packets at layer 3
+sendp            : Send packets at layer 2
+'''
 def discover_network_devices():
     local_devices = []
     ip_addr_range = sys.argv[1]
